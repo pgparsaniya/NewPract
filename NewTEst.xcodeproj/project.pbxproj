@@ -416,6 +416,7 @@
 				3A7A58761B81D576001B1FF0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3A7A58771B81D576001B1FF0 /* Build configuration list for PBXNativeTarget "NewTEstTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +425,7 @@
 				3A7A58791B81D576001B1FF0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
